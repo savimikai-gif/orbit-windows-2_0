@@ -1,0 +1,9 @@
+# Windows build products; distribute the installer, not these generated sources
+Publish/
+Release/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.log
